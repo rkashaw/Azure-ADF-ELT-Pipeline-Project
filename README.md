@@ -13,12 +13,12 @@ pipeline that copies product data if the customer record count is greater than 6
 pipeline via a pipeline parameter.
 
 **TOOLS REQUIRED:**
-Azure Data Factory (ADF) (The central orchestration and ETL/ELT tool)
+1)Azure Data Factory (ADF) (The central orchestration and ETL/ELT tool)
 
-Azure Data Lake Storage (ADLS) / Azure Blob Storage (Cloud Storage for source JSON and target CSV)
+2)Azure Data Lake Storage (ADLS) / Azure Blob Storage (Cloud Storage for source JSON and target CSV)
 
-SQL (Structured Query Language) (Used for data transformation/modeling within the pipeline)
+3)SQL (Structured Query Language) (Used for data transformation/modeling within the pipeline)
 
-Python (For custom scripts, validation, or complex transformations)
+4)Python (For custom scripts, validation, or complex transformations)
 
 
