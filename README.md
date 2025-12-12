@@ -1,7 +1,7 @@
 # Azure-ADF-ELT-Pipeline-Project
 Developed and automated a robust, cloud-based ELT/ETL data pipeline using Azure Data Factory (ADF), SQL, and Python for enterprise data integration.
 
-TASKS THAT ARE DONE IN THIS PROJECT:
+**TASKS THAT ARE DONE IN THIS PROJECT:****
 1. Create a pipeline to fetch data for 5 countries (India, US, UK, China, Russia) from a REST
 API and save it as separate JSON files.
 2. Add a trigger to the above pipeline to run automatically two times a day (12:00 AM and 12:00
@@ -12,4 +12,12 @@ pipeline that copies product data if the customer record count is greater than 6
 4. Design the pipeline to pass the customer count from the parent pipeline to the child product
 pipeline via a pipeline parameter.
 
+**TOOLS REQUIRED:**
+1.Azure Data Factory (ADF) (The central orchestration and ETL/ELT tool)
+2.Azure Data Lake Storage (ADLS) / Azure Blob Storage (Cloud Storage for source JSON and target CSV)
+3.SQL (Structured Query Language) (Used for data transformation/modeling within the pipeline)
+4.Python (For custom scripts, validation, or complex transformations)
+5.JSON (The source data format you processed)
+6.ADF Scheduled Triggers (Used for automation and scheduling pipeline runs)
+7.Azure Synapse Analytics / Azure SQL Database (Implied destination/data warehouse for the final data)
 
