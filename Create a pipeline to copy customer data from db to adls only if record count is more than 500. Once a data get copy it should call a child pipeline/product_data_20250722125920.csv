@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,StockQuantity,Description,LastUpdated
+1,"Laptop Pro","Electronics",1200.00,50,"High performance laptop",2025-07-22 18:28:28.0000000
+2,"Wireless Mouse","Accessories",25.50,200,"Ergonomic wireless mouse",2025-07-22 18:28:28.0000000
+3,"Mechanical Keyboard","Accessories",80.00,100,"RGB mechanical keyboard with clicky switches",2025-07-22 18:28:28.0000000
+4,"Gaming Headset","Accessories",50.00,150,"Immersive sound for gaming",2025-07-22 18:28:28.0000000
+5,"Webcam HD","Electronics",75.00,80,"Full HD video calls",2025-07-22 18:28:28.0000000
